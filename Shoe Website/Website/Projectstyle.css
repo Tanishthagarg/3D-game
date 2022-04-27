@@ -1,0 +1,12 @@
+
+li {
+	margin:1px;
+	padding:0px;
+}
+ a:link{color: blue;}
+a:hover{color: orange;}
+a:active{color: red;}
+
+      nav ul li{ background-color:lightyellow; border:1px solid black; width:180px; height:35px; text-align:center; line-height:35px; float:left; position: relative;}
+      footer{ height:80px;}
+      td{text-align: center;}

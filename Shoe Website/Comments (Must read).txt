@@ -1,0 +1,3 @@
+To open the website: open folder named 'Website' and then open 'home.html'
+
+Thankyou
