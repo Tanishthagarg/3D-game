@@ -1,0 +1,15 @@
+@font-face {
+  font-family: G-Chewy-n4;
+  font-display: swap;
+  src: url('../data/fonts/chewy_v12_uK_94ruUb-k-wk5xIDMfO-ed.ttf');
+}
+@font-face {
+  font-family: "G-Bree Serif-n4";
+  font-display: swap;
+  src: url('../data/fonts/breeserif_v16_4UaHrEJCrhhnVA3DgluAx63j5pN1MwI.ttf');
+}
+@font-face {
+  font-family: "G-Coming Soon-n4";
+  font-display: swap;
+  src: url('../data/fonts/comingsoon_v17_qWcuB6mzpYL7AJ2VfdQR1u-SUjjzsykh.ttf');
+}
